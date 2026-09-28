@@ -78,5 +78,8 @@ HR_Attrition_Project/
 
 ## 📸 Dashboard Screenshot
 !HR Attrition Dashboard(screenshot) 
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 23b7bd2bbc22de9e9d5854a3839c7f6ee81a8a29

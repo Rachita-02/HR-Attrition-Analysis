@@ -103,4 +103,8 @@ SELECT
     END AS performance
 FROM dept_attrition d
 CROSS JOIN avg_attrition a
+<<<<<<< HEAD
 ORDER BY d.attrition_pct DESC;
+=======
+ORDER BY d.attrition_pct DESC;
+>>>>>>> 23b7bd2bbc22de9e9d5854a3839c7f6ee81a8a29
